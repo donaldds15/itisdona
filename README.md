@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center" >
   <h1>
-  hey there
+  hey there I'm Donald Sossa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <a href="https://www.linkedin.com/in/jonathan-sossa-b5631b1b7">
